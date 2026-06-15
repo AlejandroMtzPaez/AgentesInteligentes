@@ -24,9 +24,9 @@ Longitud total: ~955 m | 4 intersecciones | 9 orígenes de demanda
 | **Q-Learning SMA** | **46** | **1.50** | 19.5 s |
 ---
 ## Cómo ejecutar
-1. Abrir `semáforos.ipynb` en Google Colab
+1. Abrir [`semáforosE6.ipynb`](https://drive.google.com/file/d/1eqYV6gfEJalFHOFQgJwgVVeqZmoPnuQy/view?usp=sharing ) en Google Colab
 2. Ejecutar todas las celdas en orden (`Runtime > Run all`)
-3. La simulación corre en ~5–10 min dependiendo del hardware
+3. La simulación ya se encuentra ejecutada
 > **Dependencia externa:** `agentpy` — se instala automáticamente en la primera celda.
 ---
 ## Tecnologías
